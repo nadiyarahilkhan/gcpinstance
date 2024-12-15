@@ -1,6 +1,6 @@
 # Local .terraform directories
-**/.terraform/*
-
+*.terraform
+apt-memento-442605-f0-0c8ea3a0fc68.json
 # .tfstate files
 *.tfstate
 *.tfstate.*
